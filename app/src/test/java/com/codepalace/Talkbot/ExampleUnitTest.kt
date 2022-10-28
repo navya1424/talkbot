@@ -1,4 +1,4 @@
-package com.codepalace.chatbot
+package com.codepalace.Talkbot
 
 import org.junit.Test
 

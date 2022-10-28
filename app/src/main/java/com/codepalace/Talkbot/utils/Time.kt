@@ -1,4 +1,4 @@
-package com.codepalace.chatbot.utils
+package com.codepalace.Talkbot.utils
 
 import java.sql.Date
 import java.sql.Timestamp

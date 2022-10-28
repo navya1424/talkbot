@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "494964543161",
+    "project_id": "talkbot-31945",
+    "storage_bucket": "talkbot-31945.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494964543161:android:12aa9289dd5e8a933e1568",
+        "android_client_info": {
+          "package_name": "com.codepalace.Talkbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494964543161-jmbi1jv16tui2142gsd8aguk6vgah2km.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codepalace.Talkbot",
+            "certificate_hash": "41e8ae6a384c22b4532bd221fa12256e687cfbfd"
+          }
+        },
+        {
+          "client_id": "494964543161-54gjrg5auhl86rnrugfsn31u8qbthb1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEgZ-4WW5zIQohwFJff_7AMvLMVf6J3o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494964543161-54gjrg5auhl86rnrugfsn31u8qbthb1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

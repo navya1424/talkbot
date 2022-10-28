@@ -1,16 +1,14 @@
-package com.codepalace.chatbot.ui
+package com.codepalace.Talkbot.ui
 
 import android.annotation.SuppressLint
-import android.content.Context
-import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.codepalace.chatbot.R
-import com.codepalace.chatbot.data.Message
-import com.codepalace.chatbot.utils.Constants.RECEIVE_ID
-import com.codepalace.chatbot.utils.Constants.SEND_ID
+import com.codepalace.Talkbot.R
+import com.codepalace.Talkbot.data.Message
+import com.codepalace.Talkbot.utils.Constants.RECEIVE_ID
+import com.codepalace.Talkbot.utils.Constants.SEND_ID
 import kotlinx.android.synthetic.main.message_item.view.*
 
 class MessagingAdapter: RecyclerView.Adapter<MessagingAdapter.MessageViewHolder>() {

@@ -1,4 +1,4 @@
-package com.codepalace.chatbot.utils
+package com.codepalace.Talkbot.utils
 
 import android.util.Log
 

@@ -3,4 +3,8 @@
     <color name="colorPrimary">#FFFFFF</color>
     <color name="colorPrimaryDark">#151515</color>
     <color name="colorAccent">#FF7043</color>
+    <color name="shareButtonColor">#C62828</color>
+    <color name="nextButtonColor">#AD1457</color>
+
+
 </resources>
